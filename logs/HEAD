@@ -1,0 +1,22 @@
+0000000000000000000000000000000000000000 91ef3dafaa5ddd3873bbf31ce33f1cb623b2887c CYI\cyi <wlfkfqkfrhkd93@gmail.com> 1642210233 +0900	clone: from https://github.com/c-yong-il/project.git
+91ef3dafaa5ddd3873bbf31ce33f1cb623b2887c db1738db635e4de5f89b226181eb3abd258d044b CYI\cyi <wlfkfqkfrhkd93@gmail.com> 1642210352 +0900	commit: 공용.txt
+db1738db635e4de5f89b226181eb3abd258d044b dc660d436caf0e03259d04be6bbaaeb79a44f833 CYI\cyi <wlfkfqkfrhkd93@gmail.com> 1642210921 +0900	pull origin main: Fast-forward
+dc660d436caf0e03259d04be6bbaaeb79a44f833 0ad2ecc164815f205fd3911d83dc953a6cfaf51a CYI\cyi <wlfkfqkfrhkd93@gmail.com> 1642211052 +0900	pull origin main: Fast-forward
+0ad2ecc164815f205fd3911d83dc953a6cfaf51a f472365e220391eceaf4cbfdf80e068cc25db290 CYI\cyi <wlfkfqkfrhkd93@gmail.com> 1642211081 +0900	commit: aaaa 추가
+f472365e220391eceaf4cbfdf80e068cc25db290 f3108256d121f247ca4d7916f5c2ac95c122c177 CYI\cyi <wlfkfqkfrhkd93@gmail.com> 1642211269 +0900	pull origin main: Fast-forward
+f3108256d121f247ca4d7916f5c2ac95c122c177 9d8f9d160b705484f6200ea9cee22f30f7f7fc15 CYI\cyi <wlfkfqkfrhkd93@gmail.com> 1642211452 +0900	commit: 공용수정 최용일
+9d8f9d160b705484f6200ea9cee22f30f7f7fc15 e247f9fb7c550af79b764ce201e2747a229a2084 CYI\cyi <wlfkfqkfrhkd93@gmail.com> 1642212039 +0900	commit (merge): Merge branch 'main' of https://github.com/c-yong-il/project
+e247f9fb7c550af79b764ce201e2747a229a2084 da31271bff777539e56bb7a1eb5b21062f027213 CYI\cyi <wlfkfqkfrhkd93@gmail.com> 1642212316 +0900	commit: cgv main
+da31271bff777539e56bb7a1eb5b21062f027213 aca92695cbfd1d28b3394e93caa8515211531469 CYI\cyi <wlfkfqkfrhkd93@gmail.com> 1642212520 +0900	commit: title width
+aca92695cbfd1d28b3394e93caa8515211531469 bf76bed23778fb92ccac5b0bb4beabb9ebb2c614 CYI\cyi <wlfkfqkfrhkd93@gmail.com> 1642213363 +0900	pull origin main: Fast-forward
+bf76bed23778fb92ccac5b0bb4beabb9ebb2c614 da31271bff777539e56bb7a1eb5b21062f027213 CYI\cyi <wlfkfqkfrhkd93@gmail.com> 1642213414 +0900	reset: moving to da31271bff777539e56bb7a1eb5b21062f027213
+da31271bff777539e56bb7a1eb5b21062f027213 bf76bed23778fb92ccac5b0bb4beabb9ebb2c614 CYI\cyi <wlfkfqkfrhkd93@gmail.com> 1642213601 +0900	pull origin main: Fast-forward
+bf76bed23778fb92ccac5b0bb4beabb9ebb2c614 da31271bff777539e56bb7a1eb5b21062f027213 CYI\cyi <wlfkfqkfrhkd93@gmail.com> 1642213608 +0900	reset: moving to da31271bff777539e56bb7a1eb5b21062f027213
+da31271bff777539e56bb7a1eb5b21062f027213 bf76bed23778fb92ccac5b0bb4beabb9ebb2c614 CYI\cyi <wlfkfqkfrhkd93@gmail.com> 1642213632 +0900	pull origin main: Fast-forward
+bf76bed23778fb92ccac5b0bb4beabb9ebb2c614 db1738db635e4de5f89b226181eb3abd258d044b CYI\cyi <wlfkfqkfrhkd93@gmail.com> 1642214013 +0900	checkout: moving from main to db1738db635e4de5f89b226181eb3abd258d044b
+db1738db635e4de5f89b226181eb3abd258d044b bf76bed23778fb92ccac5b0bb4beabb9ebb2c614 CYI\cyi <wlfkfqkfrhkd93@gmail.com> 1642214076 +0900	checkout: moving from db1738db635e4de5f89b226181eb3abd258d044b to main
+bf76bed23778fb92ccac5b0bb4beabb9ebb2c614 db1738db635e4de5f89b226181eb3abd258d044b CYI\cyi <wlfkfqkfrhkd93@gmail.com> 1642214147 +0900	checkout: moving from main to db1738db635e4de5f89b226181eb3abd258d044b
+db1738db635e4de5f89b226181eb3abd258d044b bf76bed23778fb92ccac5b0bb4beabb9ebb2c614 CYI\cyi <wlfkfqkfrhkd93@gmail.com> 1642214152 +0900	checkout: moving from db1738db635e4de5f89b226181eb3abd258d044b to main
+bf76bed23778fb92ccac5b0bb4beabb9ebb2c614 39ba1b9da9899e0412a7e22de77569eeec3bf502 CYI\cyi <wlfkfqkfrhkd93@gmail.com> 1642214520 +0900	checkout: moving from main to 39ba1b9da9899e0412a7e22de77569eeec3bf502
+39ba1b9da9899e0412a7e22de77569eeec3bf502 bf76bed23778fb92ccac5b0bb4beabb9ebb2c614 CYI\cyi <wlfkfqkfrhkd93@gmail.com> 1642214540 +0900	checkout: moving from 39ba1b9da9899e0412a7e22de77569eeec3bf502 to main
+bf76bed23778fb92ccac5b0bb4beabb9ebb2c614 f1106fcef48ad5a895d05103ecb310c03d1af8cb CYI\cyi <wlfkfqkfrhkd93@gmail.com> 1642216064 +0900	pull origin main: Fast-forward
