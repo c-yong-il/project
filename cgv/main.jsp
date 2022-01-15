@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>깃헙테스트</title>
+<title>Git-Hub test</title>
 <link href="http://localhost:9000/cgv/css/cgv.css" rel="stylesheet">
 </head>
 <body>
